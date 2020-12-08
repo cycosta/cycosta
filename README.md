@@ -2,7 +2,7 @@
 
 # Hello, I'm Cynthia Costa - @cycosta
 
-I'm a brazilian front-end developer and I currently occupy the position of mid level front-end developer at [TudoGostoso](https://www.tudogostoso.com.br), one of Webedia Brazil's brands, and the largest food recipes portal in the country.
+I'm a design driven and product oriented front-end developer currently working at [PicPay](https://picpay.com.br), an award winner and the largest digital wallet platform in Brazil.
 
 ## Skills
 
