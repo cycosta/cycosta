@@ -7,15 +7,18 @@ I'm a design driven and product oriented front-end developer currently working a
 ## Skills
 
 * HTML
-* HAML
 * CSS
 * SASS
-* BEM
 * JavaScript
-* Vue
+* Angular
+* Typescript
+* Jest
 * React
-* Webpack
+* Styled Components
 * Git
+* Webpack
+* BEM
+* Agile
 * UI/UX
 
 ## You can find me at
