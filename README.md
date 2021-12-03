@@ -2,7 +2,7 @@
 
 # Hello, I'm Cynthia Costa - @cycosta
 
-I'm a design driven and product oriented front-end developer currently working at [PicPay](https://picpay.com.br), an award winner and the largest digital wallet platform in Brazil.
+I'm a design driven and product oriented front-end software engineer currently working at [QuintoAndar](https://www.quintoandar.com.br/), the largest digital real estate agency in Brazil.
 
 ## Skills
 
